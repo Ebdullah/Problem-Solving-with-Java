@@ -9,6 +9,9 @@ public class Main {
         zeroOneTriangle.zeroOneTriangle();
 
         ButterflyPattern butterflyPattern = new ButterflyPattern();
-        butterflyPattern.butterflyPattern();;
+        butterflyPattern.butterflyPattern();
+
+        RhombusPattern rhombusPattern = new RhombusPattern();
+        rhombusPattern.rhombusPattern();
     }
 }
