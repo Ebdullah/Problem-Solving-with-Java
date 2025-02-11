@@ -7,5 +7,8 @@ public class Main {
 
         ZeroOneTriangle zeroOneTriangle = new ZeroOneTriangle();
         zeroOneTriangle.zeroOneTriangle();
+
+        ButterflyPattern butterflyPattern = new ButterflyPattern();
+        butterflyPattern.butterflyPattern();;
     }
 }
