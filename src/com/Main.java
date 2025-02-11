@@ -13,5 +13,8 @@ public class Main {
 
         RhombusPattern rhombusPattern = new RhombusPattern();
         rhombusPattern.rhombusPattern();
+
+        NumberPyramid numberPyramid = new NumberPyramid();
+        numberPyramid.numberPyramid();
     }
 }
